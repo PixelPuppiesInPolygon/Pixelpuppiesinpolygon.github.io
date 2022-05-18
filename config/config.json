@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xFA75d37b8607Eff73F9f418663B7c006C8f7449b",
-  "SCAN_LINK": "https://polygonscan.com/address/0xFA75d37b8607Eff73F9f418663B7c006C8f7449b",
+  "CONTRACT_ADDRESS": "0x35774EfeE9729c9AF6aC439f9098AB995D5701e9",
+  "SCAN_LINK": "https://polygonscan.com/token/0x35774efee9729c9af6ac439f9098ab995d5701e9",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -14,5 +14,5 @@
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/thefuturegalaxywarrios/",
-  "SHOW_BACKGROUND": false
+  "SHOW_BACKGROUND": true
 }
